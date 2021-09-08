@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=WeaktoN&show_icons=true">
 
-# Merhaba, ben Mert Cobanov! 
+# Merhaba, ben Ali Yasin Emir! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WeaktoN" alt="WeaktoN" /> </p>
 
 [![](https://img.shields.io/twitter/follow/weakton?style=social)](https://www.twitter.com/weakton)
